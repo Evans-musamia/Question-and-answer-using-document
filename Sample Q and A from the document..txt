@@ -1,0 +1,33 @@
+PS C:\Users\HP\Desktop\QA-chattgpt>  & 'C:\Users\HP\AppData\Local\Programs\Python\Python311\python.exe' 'c:\Users\HP\.vscode\extensions\ms-python.python-2023.12.0\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '56718' '--' 'C:\Users\HP\Desktop\QA-chattgpt\QnA using document.py'
+Enter your query:tell me about the report
+This report is a summary of the visit made by an Omnivoltaic Energy Solutions Company Limited (OVES) technician to SPARK-Kenya. The purpose of the visit 
+was to check the battery pack status/health of some of the 12AH battery hubs that were faulty, check the autonomy of some of battery units that were reported by the end users to be draining first, and check whether the packs with faulty cells can still be recovered using a recovery board. The report includes data on the number of faulty units, the problems solved, and the next steps and recommendations. The report is signed by both the OVES technician and SPARK-Kenya to confirm that the work was carried out.
+Enter your query:how many batteries were reported to be faulty
+?
+
+13 batteries were reported to be faulty.
+Enter your query:what was the complains about
+the battery packs?
+
+The complaints about the battery packs were related to their capacity, autonomy, and other faults such as charging and USB ports not functioning.        
+Enter your query:What was the agreement between the two parties
+?
+
+The agreement between OVES and SPARK-Kenya was that OVES would provide technical support and training to SPARK-Kenya's technician on how to use the recovery board and ISDT equipment to diagnose and repair the faulty battery packs. OVES would also provide a compensation plan for the packs with faulty cells upon receiving the final complaint report from the technician. SPARK-Kenya would be responsible for ensuring that all returned units are charged, discharged and charged again at least once every three months to maintain the battery packs.
+Enter your query:what was success percentage of our battries
+The success percentage of the batteries can be determined by calculating the number of batteries that were successfully recovered and the total number of batteries that were tested. For example, if 13 batteries were found to have faulty cells and 28 batteries were found to have autonomy issues, and all of them were successfully recovered, then the success percentage would be 100%.
+Enter your query:Calculate success percentage of the products
+The success percentage of the products can be calculated by dividing the number of products that were successfully repaired by the total number of products.
+
+Success Percentage = (Number of products successfully repaired / Total number of products) x 100
+
+Success Percentage = (43 - 15) / 43 x 100
+
+Success Percentage = 28 / 43 x 100
+
+Success Percentage = 65.11%
+Enter your query:What was the final decision
+?
+
+The final decision was that OVES will provide GA chargers for Camp units to ease the process of charging since use of solar panels to do battery maintenance can be very cumbersome especially when dealing with large stock. OVES will also work on a compensation plan on the packs with faulty cells upon receiving the final complaint report from the technician. SPARK will also ensure that going forward, all the returned units have to be charged, discharged and then charged again at least once every three months so as to maintain the battery packs.
+Enter your query:
