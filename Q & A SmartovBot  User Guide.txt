@@ -1,0 +1,27 @@
+SIMPLE Q & A CONVERSATION USING LLMs and OPENAI
+
+Project description:
+The application is created to leverage on openai and LLMs such as chatgpt-4 to accept user input and provide intelligent responses based on the content  given to it.
+Our choice for openai and LLMs is based on current evolution in AI to process data in human like ways, give reasonable and meaningful responses that can help companies, organizations and individuals automate their processes.
+The challenges with this technology is the billing based on token, and even if you can afford the expenses the token limitations comes in. As you be aware the most recent chatgpt, thats gpt-4 can only accept upto 50 pages. This gives a ceiling on what you can send to LLMs for processing. And therefore opens awindow to utilise  vectordatabase such chromadb, to break big documents into smaller chunks  and be stored as vectors of related information that can be called based on user input. Through matching.
+For this project, we will not dive much into vectordatabase, since we will only be giving a handful of data into the code to be processed. But in our coming projects we will use larger documents that will need us to break them into chunk hence o using vectorstores.
+
+Install and run the project:
+The installation guidances assumes that the user has python already installed in his or her machine.
+But if not installed, there is no reason to get worried. Just follow the link below to get guidance on how to install python on your machine(link).
+Having installed python and tested it succesfully lets now install required packages for the project.For installation on command terminal we will use "pip"
+So install the packages using pip.
+type "pip install langchain" then press enter. Allow it to run and download every library for our use.
+Once its done and returns succesfully installed packages, give another command 
+"pip install openai"
+
+Now minimise the command window and open python IDE or if you using VS Code choose python environment.
+On github navigate to code section, copy it and paste in your shell to run.
+Select run.
+remember to replace 'openai_api-key' with your own relevant and legit keys.
+After the program compiles and runs succesfyully it will give a propmpt to insert your query. Type your query and press enter. Wait application to process and give an output.
+You can change the content by copying any text of less than one page and insert in the content and query against it.
+
+
+
+ 
