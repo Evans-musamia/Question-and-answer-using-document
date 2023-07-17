@@ -8,8 +8,8 @@ For this project, we will not dive much into vectordatabase, since we will only 
 
 ## Pre requisites
 
-python 3.9+
-vs Code
+-python 3.9+
+-vs Code
 
 ## Project setup
 
