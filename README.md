@@ -26,6 +26,8 @@ cd project name
 
 
 ## Run the project
+remember to replace 'openai_api-key' with your own relevant and legit keys.
+You can change the content by copying any text of less than one page and insert in the content and query against it.
 
 ```
   pip install langchain
